@@ -6,5 +6,7 @@ let user = `User name is ${name}, and user age is ${age}.`;
 console.log(user);
 // boolean
 let userExist = true;
-console.log(userExist);
+let item = true;
+let item2 = false;
+console.log(item2);
 //# sourceMappingURL=string.js.map
